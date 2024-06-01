@@ -1,1 +1,2 @@
 # ADD MANIFEST URLS - ONE PER LINE
+https://purl.stanford.edu/sn904cj3429/iiif/manifest
